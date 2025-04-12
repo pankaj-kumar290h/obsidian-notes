@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIG command (DNS).md",
+                "file": "Uncatgroies Notes/DIG command (DNS).md",
                 "mode": "source",
                 "source": false
               },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIG command (DNS).md",
+                "file": "Uncatgroies Notes/DIG command (DNS).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,9 +200,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5be3301b42c29050",
+  "active": "d92f092dbadebfeb",
   "lastOpenFiles": [
-    "DIG command (DNS).md",
+    "Uncatgroies Notes/DIG command (DNS).md",
     "Uncatgroies Notes",
     "Javascript/Objects.md",
     "DSA/Stack.md",
