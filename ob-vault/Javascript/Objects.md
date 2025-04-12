@@ -1,0 +1,1 @@
+Objects in js are not class based like in other programming languages.
